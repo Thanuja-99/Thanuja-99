@@ -18,8 +18,8 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fathima-halidha-7b0771231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fathima-halidha-7b0771231/" height="40" width="50" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24035320/fathima-halidha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24035320/fathima-halidha" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in//thanuja-kumarasekara-85382a269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thanuja-kumarasekara-85382a269/" height="40" width="50" /></a>
+
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -30,11 +30,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Halidha99">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Halidha99&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Thanuja-99">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thanuja-999&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Halidha99">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Halidha99&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/Thanuja-99">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thanuja-999&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
